@@ -15,4 +15,3 @@ Posting thoughts at [https://fire.posthaven.com](https://fire.posthaven.com).
 ## Researching
 
 * https://www.sirlin.net/ptw
-* 
