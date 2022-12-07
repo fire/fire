@@ -11,3 +11,4 @@
 * https://github.com/V-Sekai/VSK_model_explorer
 * https://www.allourideas.org/v-sekai-game
 * https://www.sirlin.net/ptw
+* https://www.jpattonassociates.com/opportunity-canvas/
