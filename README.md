@@ -4,7 +4,6 @@
 * https://fire.posthaven.com/
 * https://twitter.com/iFiery
 * https://threadreaderapp.com/
-* https://chibifire.nokotime.com/time/dashboard/recent
 
 ## Links I'm Researching
 
