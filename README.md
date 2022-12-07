@@ -6,6 +6,7 @@ Posting thoughts at [https://fire.posthaven.com](https://fire.posthaven.com).
 * https://fire.posthaven.com/
 * https://twitter.com/iFiery
 * https://threadreaderapp.com/
+* https://chibifire.nokotime.com/time/dashboard/recent
 
 ## Things of the day
 
