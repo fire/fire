@@ -1,9 +1,10 @@
 ## Tools I use
 
+* https://twitter.com/iFiery
 * https://mstdn.ca/@fire
 * https://fire.posthaven.com/
-* https://twitter.com/iFiery
 * https://threadreaderapp.com/
+* https://chibifire.com
 
 ## Things I'm Researching
 
