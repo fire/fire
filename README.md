@@ -1,3 +1,9 @@
+## Fire's changelog
+
+| Work | Status | Comment |
+|---|---|---|
+| 2022-12-14| Today's date | Placeholder |
+
 ## Fire's board
 
 | Research | Status | Comment |
