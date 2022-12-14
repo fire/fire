@@ -17,3 +17,4 @@
 | https://threadreaderapp.com | Save Twitter threads as pdf | Learning new stuff |
 | https://chibifire.com | My portfolio | Show off |
 | https://godotengine.org | Opensource game engine | Tool |
+| https://netflix.com/ | Watch shows | Entertainment |
