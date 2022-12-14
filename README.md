@@ -5,12 +5,7 @@
 | 2022-12-14| Today's date | Placeholder |
 | Planning | Where are we going today? | Want to arrive at my destination |
 
-## Fire's board
-
-| Research | Status | Comment |
-|---|---|---|
-| https://github.com/v-sekai/v-sekai-game | Opensource Social VR| Exciting |
-| https://github.com/V-Sekai/VSK_model_explorer | Used to preview models | Useful |
+## Fire
 
 |Tool  | Why | Comment |
 |---|---|---|
