@@ -1,12 +1,12 @@
 ## Fire's changelog
 
-| Work | Status | Comment |
-|---|---|---|
-| 2022-12-14| Today's date | Placeholder |
-| Planning | Where are we going today? | Want to arrive at my destination |
-| Land many bone ik | Work! | AHHHHH! |
-| Have my own avatar | Who am I? | Avoid blending errors |
-| Have my own world | Have a cozy world to be | Smol |
+| Enhancement | Task | Orig Est | Curr Est | Elapsed | Remain | 
+|---|---|---|---|---|---|
+| 2022-12-14| Today's date | | | | | |
+| Planning | Where are we going today? want to arrive at my destination | | | | |
+| Land many bone ik | Work! AHHHHH! | | | | |
+| Have my own avatar | Who am I?  Avoid blending errors | | | | |
+| Have my own world | Have a cozy world to be. Smol | | | | |
 
 ## Fire
 
