@@ -1,4 +1,4 @@
-## Tools I use
+## Fire's board
 
 |Tool  | Why | Comment |
 |---|---|---|
@@ -9,7 +9,7 @@
 | https://chibifire.com | My portfolio | Show off |
 | https://godotengine.org | Opensource game engine | Tool |
 
-## Things I'm Researching
-
-* https://github.com/v-sekai/v-sekai-game
-* https://github.com/V-Sekai/VSK_model_explorer
+| Research | Status | Comment |
+|---|---|---|
+| https://github.com/v-sekai/v-sekai-game | Opensource Social VR| Exciting |
+| https://github.com/V-Sekai/VSK_model_explorer | Used to preview models | Useful |
