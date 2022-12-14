@@ -3,6 +3,7 @@
 | Work | Status | Comment |
 |---|---|---|
 | 2022-12-14| Today's date | Placeholder |
+| Planning | Where are we going today? | Want to arrive at my destination |
 
 ## Fire's board
 
