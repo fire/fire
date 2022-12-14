@@ -8,5 +8,5 @@
 
 ## Things I'm Researching
 
+* https://github.com/v-sekai/v-sekai-game
 * https://github.com/V-Sekai/VSK_model_explorer
-* https://www.jpattonassociates.com/opportunity-canvas/
