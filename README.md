@@ -4,7 +4,7 @@
 |---|---|---|---|---|---|
 | 2022-12-14| Where are we going today? want to arrive at my destination | | | | | |
 | Land many bone ik | Work! AHHHHH! | | | | |
-| Have my own avatar | Who am I?  Avoid blending errors | | | | |
+| Have my own avatar | Who am I?  Avoid posing errors | | | | |
 | Have my own world | Have a cozy world to be. Smol | | | | |
 
 ## Fire
