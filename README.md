@@ -2,7 +2,7 @@
 
 |Tool  | Why | Comment |
 |---|---|---|
-| https://mstdn.ca/@fire | Used to doomscoll news | Social! |
+| https://mstdn.ca/@fire | Used to doomscroll news | Social! |
 | https://fire.posthaven.com | Post long form content | To think! |
 | https://threadreaderapp.com | Save Twitter threads as pdf | Learning new stuff |
 | https://chibifire.com | My portfolio | Show off |
