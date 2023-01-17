@@ -8,5 +8,5 @@
 | https://chibifire.com | My portfolio | Show off |
 | https://godotengine.org | Opensource game engine | Tool |
 | https://netflix.com/ | Watch shows | Entertainment |
-| Older | Why | Comment |
+| Tool | Why | Comment |
 | https://twitter.com/iFiery | Used to doomscroll news | Fun! |
