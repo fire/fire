@@ -8,5 +8,10 @@
 | https://chibifire.com | My portfolio | Show off |
 | https://godotengine.org | Opensource game engine | Tool |
 | https://netflix.com/ | Watch shows | Entertainment |
-| Tool | Why | Comment |
-| https://twitter.com/iFiery | Used to doomscroll news | Fun! |
+| https://twitter.com/iFiery | Doomscroll news | Fun! |
+
+
+|Page  | Why | Comment |
+|---|---|---|
+| https://v-sekai.github.io/ | V-Sekai | Social! |
+| https://github.com/v-sekai/godot | V-Sekai's fork of Godot | Social! |
