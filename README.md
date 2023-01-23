@@ -15,3 +15,4 @@
 | https://v-sekai.github.io/ | V-Sekai | Social! |
 | https://github.com/v-sekai/godot | V-Sekai's fork of Godot | Social! |
 | https://v-sekai.github.io/ | V-Sekai Documentation | How? Why? |
+| https://github.com/v-sekai/v-sekai-game | V-Sekai's Game | Social VR |
