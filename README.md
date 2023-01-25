@@ -1,5 +1,11 @@
 ## Fire
 
+|Page  | Why | Comment |
+|---|---|---|
+| https://v-sekai.org | V-Sekai's Game | Social VR |
+| https://v-sekai.github.io/ | V-Sekai Documentation | How? Why? |
+| https://github.com/v-sekai/godot | V-Sekai's fork of Godot | Social! |
+
 |Tool  | Why | Comment |
 |---|---|---|
 | https://mstdn.ca/@fire | Used to doomscroll news | Social! |
@@ -9,10 +15,8 @@
 | https://godotengine.org | Opensource game engine | Tool |
 | https://twitter.com/iFiery | Doomscroll news | Fun! |
 
-
-|Page  | Why | Comment |
+| Git  | Why | Comment |
 |---|---|---|
 | https://github.com/v-sekai/godot | V-Sekai's fork of Godot | Social! |
-| https://v-sekai.github.io/ | V-Sekai Documentation | How? Why? |
 | https://github.com/v-sekai/v-sekai-game | V-Sekai's Game | Social VR |
 | https://github.com/V-Sekai-fire/epsilon-workspace | Fire's Godot Engine workspace |
