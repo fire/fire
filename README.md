@@ -6,6 +6,9 @@
 | https://v-sekai.github.io/ | V-Sekai Documentation | How? Why? |
 | https://github.com/v-sekai/godot | V-Sekai's fork of Godot | Social! |
 
+<details>
+  <summary>Click me for more tools.</summary>
+  
 |Tool  | Why | Comment |
 |---|---|---|
 | https://r.3v.fi/discord-timestamps/ | Used for timestamps | |
@@ -21,3 +24,5 @@
 | https://github.com/v-sekai/godot | V-Sekai's fork of Godot | Social! |
 | https://github.com/v-sekai/v-sekai-game | V-Sekai's Game | Social VR |
 | https://github.com/V-Sekai-fire/epsilon-workspace | Fire's Godot Engine workspace |
+</details>
+
