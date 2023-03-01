@@ -25,4 +25,6 @@
 | https://chibifire.com | My portfolio | Show off |
 | https://godotengine.org | Opensource game engine | Tool |
 | https://twitter.com/iFiery | Doomscroll news | Fun! |
+| https://github.com/rabbitmq/khepri | RAFT based | consensus |
 
+  
