@@ -20,7 +20,6 @@
 |---|---|---|
 | https://r.3v.fi/discord-timestamps/ | Used for timestamps | |
 | https://mstdn.ca/@fire | Used to doomscroll news | Social! |
-| https://fire.posthaven.com | Post long form content | To think! |
 | https://threadreaderapp.com | Save Twitter threads as pdf | Learning new stuff |
 | https://chibifire.com | My portfolio | Show off |
 | https://godotengine.org | Opensource game engine | Tool |
