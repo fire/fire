@@ -5,6 +5,7 @@
 | https://v-sekai.org | V-Sekai's Game | Social VR |
 | https://v-sekai.github.io/ | V-Sekai Documentation | How? Why? |
 | https://github.com/v-sekai/godot | V-Sekai's fork of Godot | Social! |
+| https://chibifire.wordpress.com | Chibifire's blog | Social! |
 
 | Git  | Why | Comment |
 |---|---|---|
